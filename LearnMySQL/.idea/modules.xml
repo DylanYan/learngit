@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearnMySQL.iml" filepath="$PROJECT_DIR$/.idea/modules/LearnMySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearnMySQL_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LearnMySQL_main.iml" group="LearnMySQL" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearnMySQL_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LearnMySQL_test.iml" group="LearnMySQL" />
+    </modules>
+  </component>
+</project>
