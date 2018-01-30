@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsumeRESTful.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsumeRESTful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsumeRESTful_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsumeRESTful_main.iml" group="ConsumeRESTful" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsumeRESTful_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsumeRESTful_test.iml" group="ConsumeRESTful" />
+    </modules>
+  </component>
+</project>
