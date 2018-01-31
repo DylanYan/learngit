@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Uploadfile.iml" filepath="$PROJECT_DIR$/.idea/modules/Uploadfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Uploadfile_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Uploadfile_main.iml" group="Uploadfile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Uploadfile_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Uploadfile_test.iml" group="Uploadfile" />
+    </modules>
+  </component>
+</project>
